@@ -1,0 +1,25 @@
+##Redimensionamiento de imágenes
+
+Imagina que estás desarrollando un sitio web o una aplicación en la que los usuarios
+pueden subir imágenes. Para garantizar una carga rápida de las páginas y optimizar
+la experiencia del usuario, es esencial que las imágenes sean pequeñas y ligeras, e
+specialmente si son parte de una galería o miniaturas de productos.
+
+*Problema: Las imágenes subidas por los usuarios suelen ser de gran tamaño, lo que puede ralentizar
+la carga del sitio web y ocupar más espacio de almacenamiento en el servidor.
+
+*Solución con Pillow: Este código es una solución eficiente para redimensionar automáticamente las imágenes 
+a un tamaño más pequeño (en este caso, 200x200 píxeles), lo cual es ideal para crear miniaturas o versiones optimizadas para la web.
+
+*Beneficios:
+Optimización del rendimiento del sitio web: Las imágenes redimensionadas se cargan más rápido, mejorando la experiencia del usuario.
+Reducción de espacio en el servidor: Al crear imágenes más pequeñas, se ahorra almacenamiento, lo que es crucial cuando se gestionan grandes volúmenes de datos.
+Creación automática de miniaturas: Las miniaturas o thumbnails son esenciales para galerías de imágenes o tiendas en línea, 
+donde se presentan versiones pequeñas de productos o fotos.
+
+#Ejemplos concretos de aplicación:
+-Tienda en línea: Al subir imágenes de productos, el sistema crea automáticamente miniaturas para las páginas de categorías, 
+optimizando el tiempo de carga de la página.
+
+-Redes sociales: Al subir una foto de perfil o de portada, la aplicación genera versiones redimensionadas para las vistas previas o 
+miniaturas, mejorando la velocidad de navegación.
