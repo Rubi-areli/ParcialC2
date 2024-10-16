@@ -1,3 +1,7 @@
+# utilizams la biblioteca Pillow para abrir una imagen en un formato específico (en este caso, JPG) y convertirla a otro formato (PNG)
+#El objetivo principal de este código es abrir una imagen en un formato específico, visualizarla, convertirla a otro formato y guardarla en el disco.
+#Esto es útil en diversas situaciones donde se necesita cambiar el formato de las imágenes.
+
 from PIL import Image
 
 # Abre la imagen desde la ruta completa
