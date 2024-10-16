@@ -1,3 +1,18 @@
+# Objetivo del código:
+# El código abre una imagen desde una ruta local, cambia su tamaño a 200x200 píxeles y
+# guarda la versión redimensionada en la misma carpeta con un nuevo nombre. Además,
+# muestra la imagen original y proporciona una confirmación en la consola de que la imagen 
+# redimensionada se ha guardado con éxito.
+# 
+# Este tipo de código es útil cuando dse necesita:
+
+# - Ajustar el tamaño de imágenes para un sitio web o aplicación.
+# -Procesar imágenes de manera automática.
+# -Crear miniaturas (thumbnails) de imágenes.
+
+
+
+
 from PIL import Image
 
 # Abre la imagen desde la ruta completa
