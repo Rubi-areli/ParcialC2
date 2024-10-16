@@ -1,0 +1,43 @@
+#convertir imagenes
+
+El objetivo principal de este código es abrir una imagen en un formato específico, visualizarla, 
+convertirla a otro formato y guardarla en el disco. Esto es útil en diversas situaciones donde se necesita 
+cambiar el formato de las imágenes.
+
+* Compatibilidad de formato:
+
+Al trabajar en un proyecto que requiere un formato específico (por ejemplo, PNG para la transparencia),
+este código permite convertir imágenes desde otros formatos (como JPG) que no admiten transparencia. 
+Esto es crucial en el diseño gráfico y desarrollo web.
+
+Ejemplo: Una tienda en línea que necesita imágenes de productos con fondo transparente para superponerlas sobre diferentes fondos.
+
+
+* Ajustes para la web:
+
+Al convertir imágenes a formatos como PNG, se pueden lograr mejor calidad y compresión, 
+lo que es importante para la optimización de sitios web.
+
+Ejemplo: Una aplicación que permite a los usuarios subir imágenes para su perfil puede convertirlas a 
+PNG para mantener la calidad al ser redimensionadas.
+
+* Archivos de alta calidad:
+
+El formato PNG es sin pérdida, lo que significa que no se pierde calidad al guardar la imagen. 
+Esto es útil en la edición de imágenes, donde se requiere mantener la mejor calidad posible.
+
+Ejemplo: Editores de imágenes que trabajan en capas pueden convertir archivos JPG a PNG para preservar la calidad durante el proceso de edición.
+
+* Preparación de imágenes para impresión:
+
+Antes de enviar imágenes a impresión, es posible que se necesiten convertir a un formato específico que el impresor recomienda,
+como PNG para obtener resultados óptimos.
+
+Ejemplo: Un fotógrafo que necesita convertir imágenes digitales a PNG para una impresión de alta calidad en un álbum.
+
+* Creación de recursos gráficos:
+
+En el desarrollo de aplicaciones o juegos, es común convertir imágenes a diferentes formatos para utilizarlas como texturas o recursos gráficos.
+
+Ejemplo: Un desarrollador de videojuegos que necesita convertir imágenes de personajes a PNG para que tengan un fondo transparente 
+al ser renderizados en el juego.
