@@ -1,0 +1,41 @@
+##Escala de grises
+
+El objetivo es abrir una imagen, convertirla a escala de grises y guardarla con un nuevo nombre, 
+manteniendo la imagen original intacta. Además, muestra tanto la imagen original como la versión en escala de grises.
+
+##Casos de uso
+
+* Optimización de imágenes para análisis:
+
+En aplicaciones de visión por computadora o machine learning, las imágenes en escala de grises se utilizan 
+a menudo para simplificar el análisis, ya que eliminan la información de color y se enfocan únicamente en la intensidad 
+de los píxeles (luminancia).
+
+Ejemplo: Detectar bordes o patrones en una imagen, que puede ser más eficiente en escala de grises.
+
+* Reducción de tamaño de archivos:
+
+Convertir imágenes a escala de grises puede reducir su tamaño de archivo, ya que se reduce el número de canales de color de tres (RGB)
+a uno (luminancia). Esto puede ser útil para optimizar sitios web o aplicaciones móviles, donde el rendimiento es crucial.
+
+Ejemplo: Optimizar imágenes para almacenamiento o carga rápida en sitios web.
+
+* Procesamiento de imágenes médicas:
+
+En muchas imágenes médicas, como radiografías o resonancias magnéticas, la escala de grises es el formato estándar. 
+Este código puede ser útil para automatizar la conversión de imágenes a este formato.
+
+Ejemplo: Convertir imágenes de diagnóstico para su análisis en software médico especializado.
+
+* Reconocimiento de caracteres ópticos (OCR):
+
+Las imágenes en escala de grises se utilizan frecuentemente en sistemas de OCR para identificar texto en imágenes. Al eliminar el color, 
+el sistema se enfoca en los contrastes de luminancia, lo que facilita el reconocimiento de caracteres.
+
+Ejemplo: Convertir escaneos de documentos a escala de grises para mejorar la precisión del OCR.
+
+* Preparación de imágenes para impresión:
+
+En algunos casos, las imágenes en escala de grises son más fáciles de imprimir en impresoras monocromáticas. 
+Este código podría utilizarse para preparar imágenes para la impresión.
+Ejemplo: Convertir imágenes en color a blanco y negro para folletos o documentos impresos en impresoras en blanco y negro.
