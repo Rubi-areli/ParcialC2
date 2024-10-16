@@ -1,2 +1,3 @@
 Nestor Quintanilla 
-Arely Alvarenga
+
+Rubia Arely Alvarenga de Mendoza
